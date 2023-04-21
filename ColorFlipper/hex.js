@@ -26,3 +26,7 @@ btn.addEventListener('click',e=>{
     display.style.backgroundColor = newColor;
     colorText.innerHTML = newColor;
 })
+
+//how can I improve
+// why not just get random number from 0 to F?? Just put them in an array
+//why did I get random decimal first then converted it?
