@@ -3,6 +3,9 @@ This repo is used to practice vanilla Javascript skills using the compiled tutor
 
 Please refer to this url https://www.freecodecamp.org/news/javascript-projects-for-beginners/ to access the complied list of tutorials.
 
+---
+[project preview](https://www.vanillajavascriptprojects.com/)
+[source code](https://github.com/john-smilga/javascript-basic-projects)
 
 dhhdhfgdg
 dfsgddhsddfs  
