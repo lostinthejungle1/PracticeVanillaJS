@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: MyFont;
+    src: url(assets/HanyiSentySong.ttf);
+  }
+
+body{
+    background-color: #FFD3B0;
+}
+
+.hug{
+    width: 50%;
+}
+
+.title{
+    text-align: center;
+    padding:20px;
+    /* background-color: #FFF9DE; */
+    margin: 0 auto;
+    font-family: MyFont;
+    margin-top: 40px;
+}
+
+.count{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:10px;
+    margin-top:10px;
+    font-family: MyFont;
+}
+
+img.hug{
+    border-radius: 5px;
+}
+
+
+  
